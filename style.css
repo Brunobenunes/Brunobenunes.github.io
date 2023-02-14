@@ -15,24 +15,17 @@
     font-size: 20px;
     font-family: sans-serif;
 }
-.header-sub{
-    background-color: red;
-    width: 135px;
+.header img{
+    width: 30px;
+    padding-top: 30px;
     display: inline-block;
 }
-.header-sub img{
-    width: 30px;
-    
+.header-sub{
+    display: flex;
+    align-items: end;
 }
-.header-sub p{
+.header h3{
     color: white;
-}
-.headerfrase {
-        font-size: 30px;
-        padding-top: ;
-        width: 200px;
-        padding-left: 40%;
-}
-.headerfrase p{
-    padding-bottom: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
 }
