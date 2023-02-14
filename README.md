@@ -19,3 +19,6 @@
 - #363F48
 - #232126
 - #130D11
+
+# Figma:
+- https://www.figma.com/file/2q68PNWe6xmeivrCBkuf8j/Untitled?node-id=0%3A1&t=z71ftTKqc8tB9sZc-0
