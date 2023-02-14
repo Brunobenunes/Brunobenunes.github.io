@@ -13,3 +13,9 @@
 
 # Paleta de Cores:
 - https://br.pinterest.com/pin/376895062578166203/
+
+- #C08B91
+- #872634
+- #363F48
+- #232126
+- #130D11
