@@ -1,21 +1,38 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
 .header {
-    background-color:rgba(54, 63, 72, 1);
+    background-color: rgba(54, 63, 72, 1);
     height: 200px;
 }
-.header-content{
+
+.header-title {
     padding-left: 45%;
     padding-top: 50px;
     color: white;
     font-size: 20px;
     font-family: sans-serif;
 }
-.header-content-sub{
+.header-sub{
+    background-color: red;
+    width: 135px;
+    display: inline-block;
+}
+.header-sub img{
+    width: 30px;
+    
+}
+.header-sub p{
     color: white;
-    padding-top: 40px;
-    padding-left: 20%;
-
+}
+.headerfrase {
+        font-size: 30px;
+        padding-top: ;
+        width: 200px;
+        padding-left: 40%;
+}
+.headerfrase p{
+    padding-bottom: 20px;
 }
