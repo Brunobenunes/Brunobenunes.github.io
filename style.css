@@ -1,3 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .header {
-    
+    background-color:rgba(54, 63, 72, 1);
+    height: 200px;
+}
+.header-content{
+    padding-left: 45%;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.header-content-sub{
+    color: white;
+    padding-top: 40px;
+    padding-left: 20%;
+
 }
