@@ -59,12 +59,12 @@
     margin-top: 80px;
 }
 .page2{
-    background-color: rgb(35, 33, 38);
+    background-color: rgb(35, 33, 38);  
     height: 680px;
 }
 .githubstats{
     /* background-color: red; */
-    width:500px;
+    width:400px;
     height: 400px;
     padding: 20px;
     /* border: 20px solid blue; */
@@ -76,16 +76,16 @@
 }
 .githubstats-stats{
     /* background-color: blueviolet; */
-    padding-top: 100px;
-    padding-left: 5%;
+    padding-top: 50px;
+    width: 100%;
     position: relative;
-    top: -40px;
+    top: 15px;
 }
 .githubstats-most img{
    width: 100%;
    /* background-color: red; */
    position: relative;
-   top: -70px;
+   top: -15px;
 }
 .border-gradient{
     border:10px solid;
