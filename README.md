@@ -22,3 +22,9 @@
 
 # Figma:
 - https://www.figma.com/file/2q68PNWe6xmeivrCBkuf8j/Untitled?node-id=0%3A1&t=z71ftTKqc8tB9sZc-0
+
+# About Me
+<!-- 
+    Nascido em Divinpolis-MG - 1999, desde pequeno sempre tive afeição por tecnologia, vivia mexendo em um notebook velho que a gente tinha aqui em casa e fui tomando gosto por tecnologia. 
+    E depois de ter passado por faculdade de Direito, faculdade de Arquitetura, aqui estou eu, me entreguei para a tecnologia, apaixoando cada dia mais por essa área.
+    Cada dia/aula que passa eu tenho certeza que estou no lugar certo!

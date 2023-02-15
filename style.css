@@ -34,8 +34,9 @@
 }
 .body img{
     width: 300px;
-    margin: 7%;
+    margin: 6%;
     border-radius: 50%;
+    border: 5px solid rgba(54, 63, 72, 1)
 }
 .body p{
     width: 500px;
@@ -43,9 +44,10 @@
     position: absolute;
     padding-left: 50%;
     padding-right: 40%;
-    height: 400px;
+    height: 250px;
     font-family: sans-serif;
     white-space: pre-wrap;
+
 }
 .body h2{
     padding-top: 9%;
