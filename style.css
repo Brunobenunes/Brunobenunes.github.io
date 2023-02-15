@@ -63,12 +63,32 @@
 }
 .githubstats{
     /* background-color: red; */
-    width:300px;
-    height: 500px;
+    width:500px;
+    height: 400px;
+    padding: 20px;
+    /* border: 20px solid blue; */
+    margin-left: 50px;
+    position: relative;
+    top: 100px;
+    background-color: rgb(19, 13, 17);  
+
 }
 .githubstats-stats{
     /* background-color: blueviolet; */
-    padding-top: 150px;
-    padding-left: 40%;
-    padding-bottom: 10px;
+    padding-top: 100px;
+    padding-left: 5%;
+    position: relative;
+    top: -30px;
+}
+.githubstats-most img{
+   width: 100%;
+   /* background-color: red; */
+   position: relative;
+   top: -60px;
+}
+.border-gradient{
+    border:10px solid;
+    border-radius: 30px;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left,#232126, #872634);
 }
