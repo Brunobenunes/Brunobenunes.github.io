@@ -4,7 +4,7 @@
 }
 
 .header {
-    background-color: rgba(54, 63, 72, 1);
+    background-color: rgb(35, 33, 38);
     height: 200px;
 }
 
@@ -58,7 +58,7 @@
     margin-top: 80px;
 }
 .page2{
-    background-color: rgba(54, 63, 72, 1);
+    background-color: rgb(35, 33, 38);
     height: 680px;
 }
 .githubstats{
@@ -78,17 +78,17 @@
     padding-top: 100px;
     padding-left: 5%;
     position: relative;
-    top: -30px;
+    top: -40px;
 }
 .githubstats-most img{
    width: 100%;
    /* background-color: red; */
    position: relative;
-   top: -60px;
+   top: -70px;
 }
 .border-gradient{
     border:10px solid;
     border-radius: 30px;
     border-image-slice: 1;
-    border-image-source: linear-gradient(to left,#232126, #872634);
+    border-image-source: linear-gradient(to right,#872634, #130D11,#130D11,#872634);
 }
