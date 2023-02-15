@@ -29,3 +29,9 @@
     font-family: sans-serif;
     font-weight: lighter;
 }
+.foto img{
+    width: 300px;
+    margin-top: 10%;
+    margin-left: 10%;
+    border-radius: 50%;
+}
